@@ -10,4 +10,5 @@ public interface ShipService {
   Ship getShip(Long id);
   Ship editShip(Long id,Ship ship);
   void shipDel(Long id);
+  List<Ship> pagination(List<Ship> ships,String pageSize,String pageNumber);
 }

@@ -24,10 +24,13 @@ public class ShipController {
 
     @GetMapping(value = "/ships")
     @ResponseStatus(HttpStatus.OK)
-    public List<Ship> getAllShips() {
-        System.out.println("@@@@@@ShipController@@@@@@@@");
+    public List<Ship> getAllShips(@RequestParam(required = false,value = "pageNumber",defaultValue = "1")String pageNumber,
+                                  @RequestParam(required = false,value = "pageSize",defaultValue = "3")String pageSize
 
-        return service.getShips();
+    ) {
+
+
+        return service.pagination(service.getShips(),pageSize,pageNumber);
     }
 
     @GetMapping(value = "/ships/count")
