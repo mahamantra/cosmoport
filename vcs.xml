@@ -1,4 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.haulmont.com" />
+          <option name="userName" value="i.kim" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.haulmont.com/murzin/certification.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\user1\Desktop" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
