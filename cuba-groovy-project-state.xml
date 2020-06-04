@@ -1,0 +1,15 @@
+<application>
+  <component name="CubaGroovyState">
+    <option name="groovyModelState">
+      <map>
+        <entry key="$USER_HOME$/Desktop/certification">
+          <value>
+            <CubaGroovyModelState>
+              <option name="lastStableBuildScript" value="buildscript {&#10;    ext.cubaVersion = '7.1.5'&#10;    repositories {&#10;        mavenLocal()&#10;        maven {&#10;            url 'https://dl.bintray.com/cuba-platform/main'&#10;&#10;        }&#10;        jcenter()&#10;&#10;&#10;    }&#10;    dependencies {&#10;        classpath &quot;com.haulmont.gradle:cuba-plugin:$cubaVersion&quot;&#10;    }&#10;}" />
+            </CubaGroovyModelState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
