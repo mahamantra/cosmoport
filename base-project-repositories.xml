@@ -7,6 +7,10 @@
             <list>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
+                <option name="version" value="7.2.5" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
                 <option name="version" value="7.2.4" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
