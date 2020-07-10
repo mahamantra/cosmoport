@@ -1,5 +1,6 @@
 <application>
   <component name="CubaPluginApplicationSettings">
     <option name="notificationWasShown" value="3" />
+    <option name="notificationShown2" value="true" />
   </component>
 </application>
