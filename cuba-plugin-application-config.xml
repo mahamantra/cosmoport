@@ -2,5 +2,6 @@
   <component name="CubaPluginApplicationSettings">
     <option name="notificationWasShown" value="3" />
     <option name="notificationShown2" value="true" />
+    <option name="migrateSubscription" value="false" />
   </component>
 </application>
