@@ -9,6 +9,13 @@
             </CubaGroovyModelState>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/cuba-example-using-wizard">
+          <value>
+            <CubaGroovyModelState>
+              <option name="lastStableBuildScript" value="buildscript {&#10;    ext.cubaVersion = '7.2.7'&#10;    repositories {&#10;        &#10;        mavenLocal()&#10;        maven {&#10;            url  &quot;https://dl.bintray.com/mariodavid/cuba-components&quot;&#10;        }&#10;        maven {&#10;            url 'https://repo.cuba-platform.com/content/groups/work'&#10;            credentials {&#10;                username(rootProject.hasProperty('repoUser') ? rootProject['repoUser'] : 'cuba')&#10;                password(rootProject.hasProperty('repoPass') ? rootProject['repoPass'] : 'cuba123')&#10;            }&#10;        }&#10;        &#10;    }&#10;    dependencies {&#10;        classpath &quot;com.haulmont.gradle:cuba-plugin:$cubaVersion&quot;&#10;    }&#10;}" />
+            </CubaGroovyModelState>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/InternalProcess">
           <value>
             <CubaGroovyModelState />
