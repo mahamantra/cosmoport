@@ -237,6 +237,10 @@
               </BaseProjectGroupState>
               <BaseProjectGroupState>
                 <option name="name" value="platform" />
+                <option name="version" value="7.2.8" />
+              </BaseProjectGroupState>
+              <BaseProjectGroupState>
+                <option name="name" value="platform" />
                 <option name="version" value="7.2.7" />
               </BaseProjectGroupState>
               <BaseProjectGroupState>
